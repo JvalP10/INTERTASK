@@ -9,7 +9,6 @@ This program counts the number of vowels in a given string using an inline funct
 3. It will then measure the system time taken to call the inline function multiple times.
 4. The program will display the number of vowels in the string without using the inline function.
 5. It will again measure the system time taken to call the function multiple times.
-6. The program will calculate and display a comparison table showing the sizes and times for both versions.
 
 ## Compilation
 

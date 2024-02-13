@@ -21,7 +21,7 @@ void call_function(char *str) {
     cnt_vowels(str);
 }
 int main() {
-    char input[100];
+    char input[1000];
     printf("Enter a string: ");
     fgets(input, sizeof(input), stdin);
     

@@ -13,6 +13,7 @@ This program counts the number of vowels in a given string using an inline funct
 ## Compilation
 
 Compile on any code editor and run.
+Max Input string 1000.
 
 The comparison table below shows the results for using the inline function versus not using it:
 
